@@ -4,7 +4,7 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://ukandu.hashnode.dev/).
+Apart from coding, I also maintain a blog - you can find my articles on my website [here](https://ukandu.hashnode.dev/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
